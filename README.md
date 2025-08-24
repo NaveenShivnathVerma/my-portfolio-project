@@ -3,11 +3,11 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://my-portfolio-project-psi-ten.vercel.app)
 ## Some Images:
-<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image1.png"/>
-<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image2.png"/>
-<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image3.png"/>
-<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image4.png"/>
-<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image5.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/blob/main/assets/image1.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/blob/main/assets/image2.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/blob/main/assets/image3.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/blob/main/assets/image4.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/blob/main/assets/image5.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
