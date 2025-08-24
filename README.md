@@ -3,10 +3,11 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://my-portfolio-project.netlify.app)
 ## Some Images:
-<!-- Aap yahan apne screenshots ka link daal sakte hain -->
-<img width="450px;" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/assets/your-image1.png"/>
-<img width="450px;" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/assets/your-image2.png"/>
-<img width="450px;" src="https://github.com/NaveenShivnathVerma/my-portfolio-project/assets/your-image3.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image1.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image2.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image3.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image4.png"/>
+<img width="450px" src="https://github.com/NaveenShivnathVerma/Portfolio-Youtube-master/raw/main/assets/image5.png"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
