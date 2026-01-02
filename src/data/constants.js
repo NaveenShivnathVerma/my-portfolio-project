@@ -8,11 +8,11 @@ export const Bio = {
     "Motivated and versatile Developer with a strong foundation in front-end and back-end technologies, Passionate about learning and delivering high-quality, user-focused solutions Always eager to take on new challenges and grow in a dynamic environment.",
   github: "https://github.com/NaveenShivnathVerma",
   resume:
-    "https://drive.google.com/file/d/1_T_NDoEx0LR3TU411PQlO18DZdl8SRTN/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1kJ8poFwpeclKo_SXGpFblM3OLQWSJV9q/view?usp=drive_link",
   linkedin: "http://linkedin.com/in/naveen-shivnath-verma-b5aa85245",
   twitter: "https://x.com/Naveen01824",
-  insta: "https://www.instagram.com/naveen.01824/",
-  facebook: "https://www.facebook.com/naveennk.naveen.988/",
+  insta: "",
+  facebook: "",
 };
 
 export const skills = [
@@ -124,7 +124,7 @@ export const experiences = [
     img: "/premacai_logo.jpg",
     role: "Software Engineer Intern",
     company: "PremacAI",
-    date: "July 2025 – Present",
+    date: "July 2025 – Oct 2025",
     desc: "Working on real-world projects in Frontend, Backend, and AI/ML engineering. Responsibilities include collaborating with the team on product modules, participating in stand-ups, and contributing to the startup's development lifecycle.",
     skills: [
     "Frontend Development",
