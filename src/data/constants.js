@@ -8,7 +8,7 @@ export const Bio = {
     "Motivated and versatile Developer with a strong foundation in front-end and back-end technologies, Passionate about learning and delivering high-quality, user-focused solutions Always eager to take on new challenges and grow in a dynamic environment.",
   github: "https://github.com/NaveenShivnathVerma",
   resume:
-    "https://drive.google.com/file/d/1kJ8poFwpeclKo_SXGpFblM3OLQWSJV9q/view?usp=drive_link",
+    "https://drive.google.com/file/d/1sZK1NX22qIeP3kwhQKknKymB1wI6Ota3/view?usp=drivesdk",
   linkedin: "http://linkedin.com/in/naveen-shivnath-verma-b5aa85245",
   twitter: "https://x.com/Naveen01824",
   insta: "",
